@@ -1,0 +1,24 @@
+.cart {
+	width: 200px;
+}
+.items {
+	width: 538px;
+	display: table;
+}
+.lineup_btn {
+	width: auto;
+	display: table-cell;
+ 	vertical-align: middle;
+	text-align: center;
+ 	border: solid 1px #000000;
+}
+.lineup {
+	width: 135px;
+	font-size: x-small;
+	height: auto;
+	display: table-cell;
+ 	vertical-align: middle;
+ 	border-top: solid 1px #000000;
+	border-bottom: solid 1px #000000;
+	border-left: solid 1px #000000;
+}
